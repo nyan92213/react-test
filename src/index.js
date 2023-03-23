@@ -14,9 +14,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
     <App/>
-    {/* <BigButton as="a">Отправить отчет</BigButton> */}
-  </React.StrictMode>
 );
 
